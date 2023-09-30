@@ -1,0 +1,7 @@
+D:\ПРАКТИКА\Модуль 1\Задание 4\bin\Debug\Задание 4.exe.config
+D:\ПРАКТИКА\Модуль 1\Задание 4\bin\Debug\Задание 4.exe
+D:\ПРАКТИКА\Модуль 1\Задание 4\bin\Debug\Задание 4.pdb
+D:\ПРАКТИКА\Модуль 1\Задание 4\obj\Debug\Задание 4.csproj.AssemblyReference.cache
+D:\ПРАКТИКА\Модуль 1\Задание 4\obj\Debug\Задание 4.csproj.CoreCompileInputs.cache
+D:\ПРАКТИКА\Модуль 1\Задание 4\obj\Debug\Задание 4.exe
+D:\ПРАКТИКА\Модуль 1\Задание 4\obj\Debug\Задание 4.pdb
